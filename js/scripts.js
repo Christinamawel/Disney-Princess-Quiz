@@ -50,6 +50,7 @@ $(document).ready(function(){
     };
 
     if (total <= 4) {
+      console.log("did it")
       $("#belle").show();
     } else if (total <= 8) {
       $("#ariel").show();
@@ -58,5 +59,6 @@ $(document).ready(function(){
     } else {
       $("#naruto").show();
     }
+    console.log(total)
   });
 });

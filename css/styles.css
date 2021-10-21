@@ -13,9 +13,23 @@ img {
 h1 {
   text-align: center;
 }
-.result{
+
+#snowWhite {
   display: none;
 }
+
+#belle {
+  display: none;
+}
+
+#ariel {
+  display: none;
+}
+
+#naruto {
+  display: none;
+}
+
 
 .btn {
   color: white;
